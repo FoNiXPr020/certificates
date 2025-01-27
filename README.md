@@ -6,6 +6,8 @@ This repository showcases my achievements in software engineering and profession
 
 ## Certifications
 
+Visit : **[Mohamed Barhoun - Certificates](https://fonixpr020.github.io/certificates)**
+
 ### 1. ALX Software Engineering - Back-end Specialization
 This certification acknowledges the successful completion of the 12-month ALX Software Engineering program, with a specialization in Back-end development. Through this program, I developed a strong foundation in backend technologies, algorithms, and system design principles.
 
